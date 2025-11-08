@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, i'm Miftah 👋
+![mifriz-spex](img/github-header-banner.png)
 <!--
 **mifriz-spex/mifriz-spex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏫 I’m currently Student at State University of Medan
+- 🌱 I’m currently learning C++
